@@ -38,7 +38,7 @@ PS:date 基于moment.js开发
 | 参数 | 类型 | 描述  |
 | :----------- |:------:|:---------------:|
 | date         | string  number | 日期格式的字符串或者时间戳(毫秒)   |
-| format       | string | [参数详情参看moment.js](http://momentjs.cn/docs/#/string-format/) |
+| format       | string | [参数详情参看moment.js](http://momentjs.cn/docs/#/parsing/string-format/) |
 
 ## currency
 ``` bash
