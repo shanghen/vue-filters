@@ -1,10 +1,9 @@
 {
-  "name": "vue-filters",
-  "description": "A Vue.js project",
+  "name": "vue2-moment-filters",
+  "description": "Vue.js filter Plugin",
   "version": "1.0.0",
-  "author": "",
+  "author": "lin",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"

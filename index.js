@@ -1,8 +1,6 @@
-import Date from './date'
-import { Currency, Number } from './number'
-import { Lowercase, Uppercase } from './string'
-
-console.log(Lowercase);
+import Date from './src/lib/date'
+import { Currency, Number } from './src/lib/number'
+import { Lowercase, Uppercase } from './src/lib/string'
 
 const filters = {
   install (Vue, options) {

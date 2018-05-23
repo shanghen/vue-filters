@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import Filters from './lib/index'
+import Filters from '../index'
 
 Vue.use(Filters,{
   dateFormat: 'YYYY-MM-DD HH'
