@@ -7,7 +7,9 @@ PS:date 基于moment.js开发
 
 ``` bash
   npm install vue2-moment-filters --save
+
   import Filters from 'vue2-moment-filters'
+  
   Vue.use(Filters,options)
 ```
 
