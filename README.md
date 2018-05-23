@@ -10,9 +10,21 @@ PS:date 基于moment.js开发
 ``` bash
   npm install vue2-moment-filters --save
 ```
+
 在main.js中引入并挂载
+
+``` bash
   import Filters from 'vue2-moment-filters'
   Vue.use(Filters,options)
+``` 
+
+### options
+| key | 类型 | 描述  | 默认值 | 
+| :----------- |:------:|:---------------:| ------------:|
+| dateFormat   | string | 时间的过滤参数   |  YYYY-MM-DD  |
+| symbol       | string | 货币的符号       |  ¥           |
+| currencySize | number | 货币保留小数     |  2           |
+| numberSize   | number | 保留小数         |  0           |
 
 
 
