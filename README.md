@@ -1,7 +1,7 @@
 # vue-filters
 
 > 基于vue2的简易filter(date,currency,number,lowercase,uppercase)
-PS:date 基于moment.js开发
+> PS:date 基于moment.js开发
 
 ## Install 
 
